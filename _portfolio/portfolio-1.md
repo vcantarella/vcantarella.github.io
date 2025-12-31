@@ -1,7 +1,30 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Project Name / Experiment"
+excerpt: "One-line summary of the project outcome.<br/><img src='/images/500x300.png'>"
 collection: portfolio
+date: 2024-01-01
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+## Overview
+
+**Client/Context:** Personal Project / Client Name  
+**Role:** Lead Engineer / Researcher  
+**Tech Stack:** Python, React, TensorFlow  
+
+## The Challenge
+
+Describe the problem statement here. What were you trying to solve? 
+
+## The Solution
+
+Describe your approach.
+
+1.  **Step 1**: Analysis
+2.  **Step 2**: Implementation
+3.  **Step 3**: Optimization
+
+## Key Results
+
+*   Result 1 (e.g., "Improved latency by 50%")
+*   Result 2
+*   Link to [GitHub Repository](#) or [Live Demo](#)
